@@ -12,3 +12,5 @@ A free setup guide bot by BK Han · AI Hustle Generation. It teaches email and c
 Full guide: [STUDENT_SETUP_GUIDE.md](STUDENT_SETUP_GUIDE.md) · Adapting it for other audiences: [CUSTOMIZE.md](CUSTOMIZE.md)
 
 All communication is by email with your license ID in the subject. Your bots only draft; you send.
+
+© 2026 AI Hustle Generation. All rights reserved to Coach BK Han. No copying or reselling without permission.
