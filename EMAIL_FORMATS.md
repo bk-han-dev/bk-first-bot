@@ -1,6 +1,6 @@
 # Email formats
 
-Send every email to **INBOX_ADDRESS** from the email address you used on the class signup page (your first email registers your ID to it). The subject must carry your license ID. Anything else is ignored.
+Send every email to **aihustle-leads@mail.grokbot.com** from the email address you used on the class signup page (your first email registers your ID to it). The subject must carry your license ID. Anything else is ignored.
 
 ## 1. SETUP (sent once, after the First Bot finishes)
 ```

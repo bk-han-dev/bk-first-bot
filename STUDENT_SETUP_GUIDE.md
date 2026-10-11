@@ -19,7 +19,7 @@ The First Bot asks one question at a time: your name, license ID, signup email, 
 ## Step 3: Deploy Map Lead Hunter from BK's reply
 BK's reply to your SETUP email contains the full **Map Lead Hunter** instructions. The First Bot helps you create a second bot called Map Lead Hunter, paste them in, and send its first message.
 
-## Step 4: Emails you send (to INBOX_ADDRESS)
+## Step 4: Emails you send (to aihustle-leads@mail.grokbot.com)
 **SETUP** (once, when setup is done):
 ```
 Subject: SETUP | MLH-AB2C | Tan Wei Ming
