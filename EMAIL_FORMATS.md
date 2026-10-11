@@ -1,6 +1,6 @@
 # Email formats
 
-Send every email to **INBOX_ADDRESS** from the address you registered with BK. The subject must carry your license ID. Anything else is ignored.
+Send every email to **INBOX_ADDRESS** from the email address you used on the class signup page (your first email registers your ID to it). The subject must carry your license ID. Anything else is ignored.
 
 ## 1. SETUP (sent once, after the First Bot finishes)
 ```
@@ -39,6 +39,6 @@ Notes: no website
 ```
 
 ## What comes back
-- SETUP: a welcome email confirming your license and your first step.
+- SETUP: a welcome email confirming your license, including the full Map Lead Hunter instructions to paste into a new bot.
 - LEADS: how many leads were received, how many have no website, and your next steps.
-- No reply? Check the license ID, the subject format, and the address you sent from.
+- No reply? Check the license ID, the subject format, and that you sent from your signup email.

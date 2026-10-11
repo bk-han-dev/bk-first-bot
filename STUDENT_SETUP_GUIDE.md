@@ -6,17 +6,20 @@
 - Everything between you and BK's system happens by **email**. No app, no logins to BK's systems.
 
 ## Your license ID
-BK emails you a license ID that looks like **MLH-XXXX** (letters and numbers, never 0, O, 1 or I). Tell BK the email address you will send from. Only emails from that address with your ID in the subject get a reply.
+You get your license ID from the **class signup page**. It looks like **MLH-XXXX** (letters and numbers, never 0, O, 1 or I). Send every email from the **same email address you signed up with**. Your first email registers your ID to that address, so there's no need to tell BK beforehand. Emails about your ID from any other address are ignored.
 
 ## Step 1: Install the First Bot
 1. Create a new Grok Bot. Name it "My First Bot – Setup Guide".
 2. Paste in everything from `FIRST_BOT_INSTRUCTIONS.md` as its instructions.
 3. Say "hi". It will take you through email and calendar basics (connecting your email and calendar, drafting a test email, adding a "Lead hunt" event).
 
-## Step 2: Let it deploy Map Lead Hunter
-The First Bot asks one question at a time: your name, license ID, sending email, niche, area, channels and hours per week. Then it walks you through creating a second bot called **Map Lead Hunter** using the profile BK gives you, and gives you its first message to send.
+## Step 2: Answer the setup questions and send SETUP
+The First Bot asks one question at a time: your name, license ID, signup email, niche, area, channels and hours per week. Then it drafts your SETUP email (below) for you to send.
 
-## Step 3: Emails you send (to INBOX_ADDRESS)
+## Step 3: Deploy Map Lead Hunter from BK's reply
+BK's reply to your SETUP email contains the full **Map Lead Hunter** instructions. The First Bot helps you create a second bot called Map Lead Hunter, paste them in, and send its first message.
+
+## Step 4: Emails you send (to INBOX_ADDRESS)
 **SETUP** (once, when setup is done):
 ```
 Subject: SETUP | MLH-AB2C | Tan Wei Ming
@@ -39,10 +42,10 @@ Roti House,Bakery,Tampines,+65 6345 6789,none,Directory,14,Facebook page only
 ```
 (MLH-AB2C is an example. Use your own ID.) Full details: `EMAIL_FORMATS.md`.
 
-## Step 4: What comes back
-- After SETUP: a welcome email confirming your license and your first lead hunt.
+## Step 5: What comes back
+- After SETUP: a welcome email confirming your license, with the Map Lead Hunter instructions to paste in.
 - After LEADS: how many leads arrived, how many have no website, and next steps (pick your top 3, draft outreach, you send).
-- Replies normally arrive within minutes once BK's system processes your email. No reply? Check your license ID, the subject format (`SETUP |` or `LEADS |`), and that you sent from your registered address.
+- Replies normally arrive within minutes once BK's system processes your email. No reply? Check your license ID, the subject format (`SETUP |` or `LEADS |`), and that you sent from your signup email.
 
 ## Rules
 - Your bots draft. **You** read, edit and send.
@@ -50,6 +53,9 @@ Roti House,Bakery,Tampines,+65 6345 6789,none,Directory,14,Facebook page only
 - Singapore: follow PDPA, check the Do Not Call registry before calling or texting, include an opt-out, stop when anyone says no.
 - Scope: brochure or landing pages for single-location businesses. No online shops, no multi-location sites.
 - No income is guaranteed. Results come from your outreach.
+
+## Coming later
+- Realtor Bot Team tiers for property agents, and a Website Design bot.
 
 ## Pricing
 - First Bot: free
